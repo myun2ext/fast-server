@@ -1,0 +1,6 @@
+[submodule "submodules/myun2/lexical3"]
+	path = submodules/myun2/lexical3
+	url = https://github.com/myun2ext/lexical3
+[submodule "submodules/myun2/responder"]
+	path = submodules/myun2/responder
+	url = https://github.com/myun2ext/responder
